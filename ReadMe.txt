@@ -1,6 +1,6 @@
 Welcome to Donkey Kong!
-Mor Greenberg (212465678)
-Roy Tomer (206364754)
+Mor Greenberg 
+Roy Tomer 
 
 Bonuses:
 
